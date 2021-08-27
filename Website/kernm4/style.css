@@ -1,0 +1,13 @@
+body,html {
+    height: 100%;
+  }
+
+.myForm {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    border-radius: 5px;
+    box-shadow: 0px 5px 12px 0px rgba(66, 66, 66, 0.49);
+}
