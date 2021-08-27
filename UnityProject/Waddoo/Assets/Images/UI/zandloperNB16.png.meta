@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: ed047514d72b3aa498b860433e5fd716
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zandloperNB16_0
+    21300002: zandloperNB16_1
+    21300004: zandloperNB16_2
+    21300006: zandloperNB16_3
+    21300008: zandloperNB16_4
+    21300010: zandloperNB16_5
+    21300012: zandloperNB16_6
+    21300014: zandloperNB16_7
+    21300016: zandloperNB16_8
+    21300018: zandloperNB16_9
+    21300020: zandloperNB16_10
+    21300022: zandloperNB16_11
+    21300024: zandloperNB16_12
+    21300026: zandloperNB16_13
+    21300028: zandloperNB16_14
+    21300030: zandloperNB16_15
+    21300032: zandloperNB16_16
+    21300034: zandloperNB16_17
+    21300036: zandloperNB16_18
+    21300038: zandloperNB16_19
+    21300040: zandloperNB16_20
+    21300042: zandloperNB16_21
+    21300044: zandloperNB16_22
+    21300046: zandloperNB16_23
+    21300048: zandloperNB16_24
+    21300050: zandloperNB16_25
+    21300052: zandloperNB16_26
+    21300054: zandloperNB16_27
+    21300056: zandloperNB16_28
+    21300058: zandloperNB16_29
+    21300060: zandloperNB16_30
+    21300062: zandloperNB16_31
+    21300064: zandloperNB16_32
+    21300066: zandloperNB16_33
+    21300068: zandloperNB16_34
+    21300070: zandloperNB16_35
+    21300072: zandloperNB16_36
+    21300074: zandloperNB16_37
+    21300076: zandloperNB16_38
+    21300078: zandloperNB16_39
+    21300080: zandloperNB16_40
+    21300082: zandloperNB16_41
+    21300084: zandloperNB16_42
+    21300086: zandloperNB16_43
+    21300088: zandloperNB16_44
+    21300090: zandloperNB16_45
+    21300092: zandloperNB16_46
+    21300094: zandloperNB16_47
+    21300096: zandloperNB16_48
+    21300098: zandloperNB16_49
+    21300100: zandloperNB16_50
+    21300102: zandloperNB16_51
+    21300104: zandloperNB16_52
+    21300106: zandloperNB16_53
+    21300108: zandloperNB16_54
+    21300110: zandloperNB16_55
+    21300112: zandloperNB16_56
+    21300114: zandloperNB16_57
+    21300116: zandloperNB16_58
+    21300118: zandloperNB16_59
+    21300120: zandloperNB16_60
+    21300122: zandloperNB16_61
+    21300124: zandloperNB16_62
+    21300126: zandloperNB16_63
+    21300128: zandloperNB16_64
+    21300130: zandloperNB16_65
+    21300132: zandloperNB16_66
+    21300134: zandloperNB16_67
+    21300136: zandloperNB16_68
+    21300138: zandloperNB16_69
+    21300140: zandloperNB16_70
+    21300142: zandloperNB16_71
+    21300144: zandloperNB16_72
+    21300146: zandloperNB16_73
+    21300148: zandloperNB16_74
+    21300150: zandloperNB16_75
+    21300152: zandloperNB16_76
+    21300154: zandloperNB16_77
+    21300156: zandloperNB16_78
+    21300158: zandloperNB16_79
+    21300160: zandloperNB16_80
+    21300162: zandloperNB16_81
+    21300164: zandloperNB16_82
+    21300166: zandloperNB16_83
+    21300168: zandloperNB16_84
+    21300170: zandloperNB16_85
+    21300172: zandloperNB16_86
+    21300174: zandloperNB16_87
+    21300176: zandloperNB16_88
+    21300178: zandloperNB16_89
+    21300180: zandloperNB16_90
+    21300182: zandloperNB16_91
+    21300184: zandloperNB16_92
+    21300186: zandloperNB16_93
+    21300188: zandloperNB16_94
+    21300190: zandloperNB16_95
+    21300192: zandloperNB16_96
+    21300194: zandloperNB16_97
+    21300196: zandloperNB16_98
+    21300198: zandloperNB16_99
+    21300200: zandloperNB16_100
+    21300202: zandloperNB16_101
+    21300204: zandloperNB16_102
+    21300206: zandloperNB16_103
+    21300208: zandloperNB16_104
+    21300210: zandloperNB16_105
+    21300212: zandloperNB16_106
+    21300214: zandloperNB16_107
+    21300216: zandloperNB16_108
+    21300218: zandloperNB16_109
+    21300220: zandloperNB16_110
+    21300222: zandloperNB16_111
+    21300224: zandloperNB16_112
+    21300226: zandloperNB16_113
+    21300228: zandloperNB16_114
+    21300230: zandloperNB16_115
+    21300232: zandloperNB16_116
+    21300234: zandloperNB16_117
+    21300236: zandloperNB16_118
+    21300238: zandloperNB16_119
+    21300240: zandloperNB16_120
+    21300242: zandloperNB16_121
+    21300244: zandloperNB16_122
+    21300246: zandloperNB16_123
+    21300248: zandloperNB16_124
+    21300250: zandloperNB16_125
+    21300252: zandloperNB16_126
+    21300254: zandloperNB16_127
+    21300256: zandloperNB16_128
+    21300258: zandloperNB16_129
+    21300260: zandloperNB16_130
+    21300262: zandloperNB16_131
+    21300264: zandloperNB16_132
+    21300266: zandloperNB16_133
+    21300268: zandloperNB16_134
+    21300270: zandloperNB16_135
+    21300272: zandloperNB16_136
+    21300274: zandloperNB16_137
+    21300276: zandloperNB16_138
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zandloperNB16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb046b158da71d46b6cc448afc9e92c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f43d29d4f3af7438f5c86db19fc028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcb98b79ae99604cae0094480d4b95b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60f69923fdf3994e997a39e799608b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0655d5bf277f7d4e863dba1ced7b2dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_5
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56f219066d68024cb6e38826a75adac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_6
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e2025c55759cc44bb9b63937240c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_7
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ceb8a90ea04aa4b8819648c35d4ab9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_8
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0be2e2628ac4646bde0b40ed7b7946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_9
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a198f42a6f7b446b05a069d8a33f60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_10
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7c3399c2e3606438136886c65e9fc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_11
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425656f5f8cb9f74f9712a49ca00788b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_12
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dcdbbfed6a4b74b94310953dbe46c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_13
+      rect:
+        serializedVersion: 2
+        x: 13000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc4a54045bf0e8468812756cb43c622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_14
+      rect:
+        serializedVersion: 2
+        x: 14000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fd04b48de04e54ab03e9d687bfcf31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zandloperNB16_15
+      rect:
+        serializedVersion: 2
+        x: 15000
+        y: 0
+        width: 1000.125
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd109bcdc59c454fa8bd4c44a10285c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 031e7280772af5448a4b37cfaf2dacf4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

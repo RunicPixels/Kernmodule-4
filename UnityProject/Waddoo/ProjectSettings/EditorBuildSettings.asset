@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/NetworkingAsset/Scenes/Main Menu.unity
+    guid: 08f352aa02fdd17489ff16b78a9fe45b
+  - enabled: 0
+    path: Assets/NetworkingAsset/Scenes/Network Lobby.unity
+    guid: 6881ea0f11c843e45893472d9f3ff24d
+  - enabled: 1
+    path: Assets/WaddooClientSideContent/Scenes/Waddooodle.unity
+    guid: b288503cb9525e04d957f34a918d4677
+  m_configObjects: {}
